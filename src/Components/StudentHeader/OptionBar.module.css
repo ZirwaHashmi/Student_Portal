@@ -1,0 +1,10 @@
+.info {
+    /* background-color: saddlebrown; */
+    display: flex;
+    padding: 0 5%;
+    flex-wrap: wrap;
+}
+
+.info :hover {
+    background-color: steelblue;
+}
